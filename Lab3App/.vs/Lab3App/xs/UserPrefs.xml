@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{F8D03A7A-BFDF-4CDB-8840-ACC9EA70E485}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Lab3App PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Axe.cs">
+    <Files>
+      <File FileName="Program.cs" Line="61" Column="1" />
+      <File FileName="Properties/AssemblyInfo.cs" />
+      <File FileName="Axe.cs" Line="22" Column="1" />
+      <File FileName="Coin.cs" Line="27" Column="10" />
+      <File FileName="Collectable.cs" Line="19" Column="1" />
+      <File FileName="Diamond.cs" Line="8" Column="67" />
+      <File FileName="MagicWand.cs" Line="21" Column="2" />
+      <File FileName="Tool.cs" Line="18" Column="10" />
+      <File FileName="Treasure.cs" Line="23" Column="2" />
+      <File FileName="../README.md" />
+      <File FileName="App.config" Line="1" Column="1" />
+      <File FileName="../../../../../../Applications/Visual Studio.app/Contents/MonoBundle/MSBuild/Current/bin/Roslyn/Microsoft.CSharp.Core.targets" />
+      <File FileName="Displayable.cs" Line="8" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3App" expanded="True">
+            <Node name="Lab3App" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
